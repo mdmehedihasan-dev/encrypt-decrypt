@@ -1,5 +1,3 @@
-// this file for decrypt with node js
-
 const {Transform} = require('node:stream')
 const fs = require('node:fs/promises')
 
