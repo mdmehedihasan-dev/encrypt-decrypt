@@ -1,4 +1,4 @@
-// this file for encrypt with Node.js
+// this file for encryption with Node.js
 const {Transform} = require('node:stream')
 const fs = require('node:fs/promises')
 
